@@ -1,0 +1,5 @@
+Customer Support Triage System 
+
+Objective / Goal 
+Build an LLM-powered system that automatically classifies incoming customer support queries 
+into predefined categories and assigns a priority level. 
